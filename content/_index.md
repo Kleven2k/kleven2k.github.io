@@ -102,7 +102,7 @@ sections:
       items:
         - certificate_url: https://www.credly.com/badges/3a4fc37d-8167-427d-a80d-5f0b8ded0241/public_url
           date_end: '2023-09-12'
-          date_start: ''
+          date_start: '2023-08-01'
           description: 'Explore quantum computing through Qiskit'
           icon: coursera
           organization: Coursera
@@ -111,7 +111,7 @@ sections:
           url: ''
         - certificate_url: https://www.credly.com/badges/18427135-68a0-4b4c-aa7d-7e867a5abe52/public_url
           date_end: '2023-05-31'
-          date_start: ''
+          date_start: '2023-04-01'
           description: Demonstrate an ability to use dynamic circuits within Qiskit.
           icon: edx
           organization: edX
