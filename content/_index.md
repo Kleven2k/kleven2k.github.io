@@ -104,18 +104,18 @@ sections:
           date_end: '2023-08-28'
           date_start: '2023-08-17'
           description: 'Explore quantum computing through Qiskit'
-          icon: ibm
-          organization: Ibm
-          organization_url: https://www.credly.com
+          icon: credley
+          organization: Quantum Ibm
+          organization_url: https://quantum.ibm.com/
           title: Qiskit Global Summer School 2023 - Quantum Excellence.
           url: ''
         - certificate_url: https://www.credly.com/badges/18427135-68a0-4b4c-aa7d-7e867a5abe52/public_url
           date_end: '2023-05-31'
           date_start: '2023-04-01'
           description: Demonstrate an ability to use dynamic circuits within Qiskit.
-          icon: ibm
-          organization: Ibm
-          organization_url: https://www.credly.com
+          icon: credley
+          organization: Quantum Ibm
+          organization_url: https://quantum.ibm.com/
           title: IBM Quantum Challenge Spring 2023.
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         # - certificate_url: https://www.datacamp.com
@@ -182,7 +182,7 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
   - block: markdown
     content:
       title: Gallery
