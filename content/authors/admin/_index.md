@@ -47,37 +47,58 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 30
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: VHDL
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
+        percent: 50
+        icon: microchip
+        icon_pack: fal
+      - name: Qiskit
         description: ''
         percent: 40
-        icon: database
+        icon: atom
+        icon_pack: fal
+      - name: Rust
+        description: ''
+        percent: 50
+        icon: rust
+        icon_pack: fab
+      - name: C/C++
+        description: ''
+        percent: 30
+        icon: square-c
         icon_pack: fas
+      - name: Matlab
+        description: ''
+        percent: 30
+        icon: chart-line
+        icon_pack: fas
+      - name: LateX
+        description: ''
+        percent: 50
+        icon: bars-staggered
+        icon_pack: fas
+        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Workout
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 70
+        icon: person-running
         icon_pack: fas
-      - name: Cats
+      - name: Ice-skating
         description: ''
         percent: 100
-        icon: cat
+        icon: person-skating
         icon_pack: fas
-      - name: Photography
+      - name: Skiing
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 100
+        icon: person-skiing
         icon_pack: fas
 
 # Social/Academic Networking
