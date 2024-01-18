@@ -104,7 +104,7 @@ sections:
           date_end: '2023-08-28'
           date_start: '2023-08-17'
           description: 'Explore quantum computing through Qiskit'
-          icon: credley
+          icon: quantumibm
           organization: Quantum Ibm
           organization_url: https://quantum.ibm.com/
           title: Qiskit Global Summer School 2023 - Quantum Excellence.
@@ -113,7 +113,7 @@ sections:
           date_end: '2023-05-31'
           date_start: '2023-04-01'
           description: Demonstrate an ability to use dynamic circuits within Qiskit.
-          icon: credley
+          icon: quantumibm
           organization: Quantum Ibm
           organization_url: https://quantum.ibm.com/
           title: IBM Quantum Challenge Spring 2023.
@@ -182,7 +182,7 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: true
+      flip_alt_rows: false
   - block: markdown
     content:
       title: Gallery
