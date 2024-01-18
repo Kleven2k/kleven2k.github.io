@@ -101,11 +101,11 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.credly.com/badges/3a4fc37d-8167-427d-a80d-5f0b8ded0241/public_url
-          date_end: '2023-09-12'
-          date_start: '2023-08-01'
+          date_end: '2023-08-28'
+          date_start: '2023-08-17'
           description: 'Explore quantum computing through Qiskit'
-          icon: coursera
-          organization: Coursera
+          icon: ibm
+          organization: Ibm
           organization_url: https://www.credly.com
           title: Qiskit Global Summer School 2023 - Quantum Excellence.
           url: ''
@@ -113,10 +113,10 @@ sections:
           date_end: '2023-05-31'
           date_start: '2023-04-01'
           description: Demonstrate an ability to use dynamic circuits within Qiskit.
-          icon: edx
-          organization: edX
+          icon: ibm
+          organization: Ibm
           organization_url: https://www.credly.com
-          title: IBM Quantum Challenge Spring 2023 Achievement.
+          title: IBM Quantum Challenge Spring 2023.
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'

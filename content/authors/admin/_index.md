@@ -59,7 +59,7 @@ skills:
         description: ''
         percent: 40
         icon: atom
-        icon_pack: fas
+        icon_pack: fal
       - name: Rust
         description: ''
         percent: 50
@@ -72,7 +72,7 @@ skills:
         icon_pack: fas
       - name: Matlab
         description: ''
-        percent: 30
+        percent: 50
         icon: chart-line
         icon_pack: fas
       - name: LateX
@@ -103,7 +103,7 @@ skills:
       - name: Reading
         description: ''
         percent: 100
-        icon: person-skiing
+        icon: book-open
         icon_pack: fas
 
 # Social/Academic Networking
