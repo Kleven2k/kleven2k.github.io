@@ -54,12 +54,12 @@ skills:
         description: ''
         percent: 50
         icon: microchip
-        icon_pack: fal
+        icon_pack: fas
       - name: Qiskit
         description: ''
         percent: 40
         icon: atom
-        icon_pack: fal
+        icon_pack: fas
       - name: Rust
         description: ''
         percent: 50
@@ -68,7 +68,7 @@ skills:
       - name: C/C++
         description: ''
         percent: 30
-        icon: square-c
+        icon: c
         icon_pack: fas
       - name: Matlab
         description: ''
@@ -96,6 +96,11 @@ skills:
         icon: person-skating
         icon_pack: fas
       - name: Skiing
+        description: ''
+        percent: 100
+        icon: person-skiing
+        icon_pack: fas
+      - name: Reading
         description: ''
         percent: 100
         icon: person-skiing
