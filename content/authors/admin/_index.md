@@ -25,7 +25,7 @@ organizations:
     url: https://www.usn.no/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include optics, quantum and hardware.
 
 # Interests to show in About widget
 interests:
