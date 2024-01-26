@@ -231,33 +231,33 @@ sections:
 #      title: Popular Topics
 #    design:
 #      columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+#  - block: contact
+#    id: contact
+#    content:
+#      title: Contact
+#      subtitle:
+#      text: |-
+#        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: fredrikgkleven@gmail.com
-      phone: (+47) 47 41 56 20
+#      email: fredrikgkleven@gmail.com
+#      phone: (+47) 47 41 56 20
 #      appointment_url: 'https://calendly.com'
-      address:
-        street: Raveien 215
-        city: Borre
-        region: Horten
-        postcode: '3184'
-        country: Norway
-        country_code: 'NO'
+#      address:
+#        street: Raveien 215
+#        city: Borre
+#        region: Horten
+#        postcode: '3184'
+#        country: Norway
+#        country_code: 'NO'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '59.368894205469196'
-        longitude: '10.441599026177087'  
-      contact_links:
+#      coordinates:
+#        latitude: '59.368894205469196'
+#        longitude: '10.441599026177087'  
+#      contact_links:
 #        - icon: twitter
 #          icon_pack: fab
 #          name: DM Me
@@ -271,15 +271,15 @@ sections:
 #          name: Zoom Me
 #          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
+#      autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+#      form:
+#        provider: netlify
+#        formspree:
+#          id:
+#        netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+#          captcha: false
+#    design:
+#      columns: '2'
 ---

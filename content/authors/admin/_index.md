@@ -128,7 +128,7 @@ social:
     link: https://github.com/kleven2k
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/fredrik-kleven-211775a7/
+    link: https://www.linkedin.com/in/fredrik-kleven-211775a7/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
