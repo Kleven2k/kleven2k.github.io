@@ -120,9 +120,9 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #  icon_pack: fas
+  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/kleven2k
@@ -140,5 +140,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Fredrik Grundnes Kleven is an electronics engineer deeply passionate about quantum computing and mechanics, pushing the boundaries of hardware development. With expertise in traditional electronics, Fredrik Grundnes Kleven is an innovator delving into the realms of quantum technologies. Eager to explore optics, this dynamic professional is committed to continuous learning and stands at the forefront of emerging technologies..
 {style="text-align: justify;"}
