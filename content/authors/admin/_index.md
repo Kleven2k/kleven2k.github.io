@@ -134,7 +134,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/fredrik_kleven_resume_blue.pdf
+    link: uploads/cv_fredrik_red.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
